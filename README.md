@@ -1,3 +1,5 @@
+GitHub repo URL: https://github.com/lillwimberly/module9a-firstreact
+
 # Module 9A - Build Your First React Component
 
 ## Description
