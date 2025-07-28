@@ -19,4 +19,4 @@ I had trouble importing a local image in my component jsx file. I was not writti
 
 ## Screenshot
 
-<img width="1536" height="960" alt="Image" src="https://github.com/user-attachments/assets/4d437226-18cb-4f46-b81c-cc6028734545" />
+<img width="1536" height="960" alt="Image" src="https://github.com/user-attachments/assets/baa330aa-1ab7-4c58-9be9-4080bd45952f" />
